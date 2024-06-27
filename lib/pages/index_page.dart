@@ -47,6 +47,13 @@ class IndexPage extends StatelessWidget {
                 ),
               ),
             ),
+            const SizedBox(
+              height: 40,
+            ),
+            Image.asset(
+              'assets/duoc_logo.jpeg',
+              width: 200,
+            ),
           ],
         ),
       ),
